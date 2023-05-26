@@ -1,0 +1,12 @@
+{
+    "user":[
+         {
+      "username": "vivek",
+      "email": "a@gmail.com",
+      "password": "123456",
+      "IsAdmin": true,
+      "id": 1
+    }
+    ],
+    "products":[]
+}
