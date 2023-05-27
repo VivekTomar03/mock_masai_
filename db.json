@@ -1,12 +1,116 @@
 {
-    "user":[
-         {
-      "username": "vivek",
+  "freelancer": [
+    {
+      "name": "vivek",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/38/05/male-face-avatar-logo-template-pictograph-vector-11333805.jpg",
       "email": "a@gmail.com",
       "password": "123456",
-      "IsAdmin": true,
-      "id": 1
+      "profession": "Web Developer",
+      "skill": [
+        "react",
+        "node",
+        "mui",
+        "chakra",
+        "git"
+      ],
+      "rate": 11,
+      "id": 1,
+      "status": false
+    },
+    {
+      "name": "aman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YP2yfQRoNA-rygYmxdsh3MFqFcrF_bodEPQJDVQe50MAOFNGnFwYm0ECxkd5BlfV-cg&usqp=CAU",
+      "email": "aman@gmail.com",
+      "password": "123456",
+      "profession": "Graphic Designer",
+      "skill": [
+        "grapgick",
+        "designer",
+        "chakraui",
+        "mui",
+        "css",
+        "html"
+      ],
+      "rate": 9,
+      "id": 2,
+      "status": false
+    },
+    {
+      "name": "chunnu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqgh-JuznXYcqFVZmYlZI72nYbcO47l41eA59r06qsuJGS2JwqvuN6wh7gadsFumrOV4&usqp=CAU",
+      "email": "chu@gmail.com",
+      "password": "123456",
+      "profession": "Web Developer",
+      "skill": [
+        "node",
+        "html",
+        "css",
+        "js",
+        "chakra"
+      ],
+      "rate": 12,
+      "id": 3,
+      "status": false
+    },
+    {
+      "name": "munnu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqW8maJc7QkEqHT4KM3Jpg0KOlUa7HMlhz5ay9RP7otlV6h5eRQmqo7w-Xy7DS97_zxRg&usqp=CAU",
+      "email": "mu@gmail.com",
+      "password": "123456",
+      "profession": "Graphic Designer",
+      "skill": [
+        "chakra",
+        "talwind",
+        "mui",
+        "node",
+        "git"
+      ],
+      "rate": 6,
+      "id": 4,
+      "status": false
+    },
+    {
+      "name": "john",
+      "image": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-male-face-avatar-man-beard-suit-shirt-necktie-portrait-businessman-icon-vector-illustration-189004563.jpg",
+      "email": "a@gmail.com",
+      "password": "123456",
+      "profession": "Web Developer",
+      "skill": [
+        "node",
+        "html",
+        "css"
+      ],
+      "rate": 12,
+      "id": 5,
+      "status": false
+    },
+    {
+      "name": "kamal",
+      "image": "https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg",
+      "email": "k@gmail.com",
+      "password": "123456",
+      "profession": "Graphic Designer",
+      "skill": [
+        "node.pro",
+        "chakraui"
+      ],
+      "rate": 4,
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "tilak",
+      "image": "https://media.istockphoto.com/id/1357693515/photo/silhouette-of-an-adult-young-anonymous-man-on-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=4gUr9C6NPcqh-McqAkJ6DxXH-w4YkeW5e_QCOPSrwys=",
+      "email": "a@gmail.com",
+      "password": "123456",
+      "profession": "Graphic Designer",
+      "skill": [
+        "key",
+        "yoga"
+      ],
+      "rate": 23,
+      "status": false,
+      "id": 7
     }
-    ],
-    "products":[]
+  ]
 }
